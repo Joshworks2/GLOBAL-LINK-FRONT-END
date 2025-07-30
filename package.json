@@ -1,0 +1,8 @@
+{
+  "name": "global-link-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "mysql2": "^3.9.3"
+  }
+}
